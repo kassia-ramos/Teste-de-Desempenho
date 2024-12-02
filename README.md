@@ -5,6 +5,7 @@ Este é um guia para a prática que iremos fazer juntos na apresentação de Tes
 Para a nossa prática utilizaremos a ferramenta Apache JMeter, que é uma ferramenta utilizada para variados tipos de testes de desempenho. Para a utilização do JMeter é necessário que você tenha o Java instalado na sua máquina. 
 
 Depois, você pode baixar a ferramenta pelo link: [Download do Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi).
+
 Depois de Acessar a página, procure pelos arquivos Binários e baixe o arquivo compatível com seu  sistema operacional.
 
 Para acessar a ferramenta, siga os seguintes passos básicos:
