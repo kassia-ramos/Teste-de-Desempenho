@@ -6,9 +6,9 @@ Para a nossa prática utilizaremos a ferramenta Apache JMeter, que é uma ferram
 
 Depois, você pode baixar a ferramenta pelo link: [Download do Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi).
 
-Depois de Acessar a página, procure pelos arquivos Binários e baixe o arquivo compatível com seu  sistema operacional.
+Depois de Acessar a página, procure pelos arquivos "Binários" e baixe o arquivo compatível com seu  sistema operacional.
 
-Para acessar a ferramenta, siga os seguintes passos básicos:
+Depois do Download, para acessar a ferramenta, siga os seguintes passos básicos:
 - Faça a extração dos dados da pasta zipada;
 - Procure pela pasta "Bin";
 - Procure pelo arquivo com nome: "ApacheJMeter.jar" e o execute;
